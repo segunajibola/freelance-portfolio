@@ -11,6 +11,13 @@ body {
     margin: 0 auto;
 }
 
+img {
+    width: 300px;
+    border-radius: 50%;
+    margin: 0;
+    padding: 0;
+    border: 5px solid #99D930;
+}
 h1,
 h2 {
     font-weight: 300; 
